@@ -1,0 +1,19 @@
+button{
+    border-color: #003300;
+    border-width: 2px;
+    border-radius: 2px;
+    background-color: rgb(107, 107, 107);
+    border-style: solid;
+    color: black;
+    font-family: 'Roboto',sans-serif;
+    width: 70px;
+    height: 40px;
+    transition: .3s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(168, 168, 168);
+}
+p span{ 
+    background-color: grey; 
+}
